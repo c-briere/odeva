@@ -5,10 +5,7 @@
 
 
 
-create table sio_laboratoire(
-  labo_id NUMBER(3) constraint laboratoire_pkey primary key,
-  labo_nom VARCHAR2(40) not null
-);
+
 
 insert into sio_laboratoire values(10,'UPSA');
 insert into sio_laboratoire values(11,'TEVA SANTE');
