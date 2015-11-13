@@ -3,13 +3,7 @@
 -- SCRIPT POUR CRÉER ET REMPLIR LES TABLES (ÉNONCÉ)
 
 
-drop table sio_deplacement;
-drop table sio_demande;
-drop table sio_localisation;
-drop table sio_service;
-drop table sio_medicament;
-drop table sio_categorie;
-drop table sio_laboratoire;
+
 
 create table sio_laboratoire(
   labo_id NUMBER(3) constraint laboratoire_pkey primary key,
