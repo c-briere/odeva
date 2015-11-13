@@ -7,7 +7,7 @@
 
 
 
-insert into sio_laboratoire values(10,'UPSA');
+insert into sio_tnfdihvberih values(10,'UPSA');
 insert into sio_laboratoire values(11,'TEVA SANTE');
 insert into sio_laboratoire values(12,'NOVARTIS');
 insert into sio_laboratoire values(13,'SANOFI-ADVENTIS');
